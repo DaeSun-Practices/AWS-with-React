@@ -5,3 +5,5 @@ React + AWS 연습입니다.
 - Create-React-App
 - Amplify
 - material-ui
+- DynamoDB
+- S3
